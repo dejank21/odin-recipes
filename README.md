@@ -1,2 +1,1 @@
-# odin-recipes
-First website with odin project.
+First multi page website with odin project.
