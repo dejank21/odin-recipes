@@ -1,14 +1,5 @@
 /* styles.css */
 
-.title {
-    color: whitesmoke;
-    font-size: 24px;
-    font-weight: normal;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
-
 body {
     background-color: black;
     color: whitesmoke;
@@ -17,4 +8,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
+}
+
+.title {
+    color: whitesmoke;
+    font-size: 24px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
