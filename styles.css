@@ -5,16 +5,28 @@ body {
     color: whitesmoke;
     font-family: Arial, sans-serif;
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 2.5;
     margin: 0;
     padding: 0;
 }
 
 .title {
     color: whitesmoke;
-    font-size: 24px;
+    font-size: 36px;
     font-weight: normal;
     margin: 0;
     padding: 0;
     text-align: center;
+    text-decoration: underline;
+}
+
+.subtitle {
+    color: whitesmoke;
+    font-size: 24px;
+    font-weight: normal;
+    margin: 40;
+    padding: 20;
+    text-align: center;
+    text-decoration: underline;
+    background-color: green;
 }
